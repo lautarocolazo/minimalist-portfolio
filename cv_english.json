@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Lautaro Colazo",
+    "label": "Full-Stack developer",
+    "image": "/portrait1.webp",
+    "email": "lautarocolazo1@gmail.com",
+    "phone": "null",
+    "url": "https://developedbylau.vercel.app",
+    "summary": "Experienced full-stack Software Developer driven by a passion for technology, continuous learning, and creative problem-solving. Dedicated to developing software solutions that make a positive impact and help others. Proficient in a wide range of languages and technologies including Python, Django Framework, Celery, PostgreSQL, JavaScript, HTML, CSS, Git (Bitbucket, GitHub, GitLab), and Postman. With a sharp eye for detail, I specialize in crafting software that not just meets, but goes beyond expectations. My dedication to excellence extends to working closely with diverse teams, ensuring everything fits seamlessly, and delivering solutions fast.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Rexburg",
+      "countryCode": "US",
+      "region": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Lautaro G. Colazo",
+        "url": "https://www.linkedin.com/in/lautaro-g-c-32a0a5b8/?locale=en_US"
+      },
+      {
+        "network": "X",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "lautarocolazo",
+        "url": "https://github.com/lautarocolazo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BYU-Idaho Support Center",
+      "position": "Project Manager Data Science Team",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "summary": "As a member of the Business Solutions team at the BYU-Idaho Support Center, I actively contribute to the development of digital solutions, system automation, and business intelligence. Our goal is to support the call center in efficiently assisting students to find the necessary help and resources.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "BYU-Idaho Support Center",
+      "position": "Data Analyst",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2022-11-01",
+      "endDate": "2023-09-01",
+      "summary": "As a member of the Business Solutions team at the BYU-Idaho Support Center, I actively contribute to the development of digital solutions, system automation, and business intelligence. Our goal is to support the call center in efficiently assisting students to find the necessary help and resources.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Magnify",
+      "position": "Backend Developer",
+      "startDate": "2021-09-01",
+      "endDate": "2022-08-01",
+      "summary": "I gained extensive experience with the Django framework, primarily focused on maintaining and improving existing APIs. This involved designing and implementing new endpoints and services using Django REST framework and conducting thorough testing of API functionality using tools like Postman. Additionally, I utilized SQL queries to analyze data stored in a PostgreSQL database. A significant aspect of my work involved optimizing code and Django ORM queries to enhance performance, resulting in notable improvements in loading times, with enhancements of up to 64%. ",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brigram Young University - Idaho",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2022-09-11",
+      "endDate": "2026-04-21",
+      "score": "3.95",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "Django",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "DRF",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "Go",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "C#",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Version control", "Colaboración", "Source code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["Version control", "Collaboration", "Source code", "Git"]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "pagame",
+      "isActive": true,
+      "description": "Web App to split bills with friends",
+      "highlights": ["Svelte", "Firebase", "Tailwind CSS"],
+      "url": "https://pagame.vercel.app/"
+    },
+    {
+      "name": "dice game app",
+      "isActive": true,
+      "description": "Simple 2-players video game on the web",
+      "highlights": ["HTML", "CSS", "JavaScript"],
+      "url": "https://coli-dice-game.netlify.app/"
+    },
+    {
+      "name": "movies CRUD app",
+      "isActive": false,
+      "description": "Web app to illustrate CRUD principles with REST API architecture",
+      "highlights": ["Go", "SQL", "PostgreSQL", "React", "JWT Auth"],
+      "url": ""
+    },
+    {
+      "name": "blog full-stack",
+      "isActive": false,
+      "description": "Full-Stack blog website",
+      "highlights": [
+        "Django",
+        "Django templates",
+        "Tailwind CSS",
+        "Session ID auth"
+      ],
+      "github": "https://github.com/lautarocolazo/blog-django"
+    }
+  ]
+}
