@@ -6,7 +6,7 @@
     "email": "lautarocolazo1@gmail.com",
     "phone": "null",
     "url": "https://developedbylau.vercel.app",
-    "summary": "Experienced full-stack Software Developer driven by a passion for technology, continuous learning, and creative problem-solving. Dedicated to developing software solutions that make a positive impact and help others. Proficient in a wide range of languages and technologies including Python, Django Framework, Celery, PostgreSQL, JavaScript, HTML, CSS, Git (Bitbucket, GitHub, GitLab), and Postman. With a sharp eye for detail, I specialize in crafting software that not just meets, but goes beyond expectations. My dedication to excellence extends to working closely with diverse teams, ensuring everything fits seamlessly, and delivering solutions fast.",
+    "summary": "Experienced full-stack Software Developer with a strong background in building scalable and efficient web applications. Passionate about technology, continuous learning, and problem-solving, I thrive on developing software solutions that make a meaningful impact. Proficient in modern technologies including Python, Django, React, TypeScript, GraphQL, PostgreSQL, and SvelteKit. With a keen eye for detail, I specialize in crafting robust and maintainable software that exceeds expectations. My experience spans backend development, API optimization, data analysis, and frontend engineering, ensuring seamless integration and high performance. I excel in collaborating with diverse teams to deliver fast, reliable, and impactful solutions.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,11 +21,6 @@
         "url": "https://www.linkedin.com/in/lautaro-g-c-32a0a5b8/?locale=en_US"
       },
       {
-        "network": "X",
-        "username": "",
-        "url": ""
-      },
-      {
         "network": "GitHub",
         "username": "lautarocolazo",
         "url": "https://github.com/lautarocolazo"
@@ -34,18 +29,27 @@
   },
   "work": [
     {
+      "name": "FamilySearch",
+      "position": "Full-Stack Developer",
+      "url": "",
+      "startDate": "2024-04-29",
+      "endDate": null,
+      "summary": "I have gained extensive experience working with React, focusing on building and maintaining scalable UI components for a high-traffic genealogy event platform. My work includes developing reusable web components, integrating GraphQL to optimize data fetching, and collaborating with backend services built in Java microservices. I have also ensured that projects are delivered on time, aligning with event deadlines with a high success rate. Through this role, I have improved my skills in frontend performance optimization and maintainable code architecture.",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "BYU-Idaho Support Center",
       "position": "Project Manager Data Science Team",
-      "url": "https://twitch.tv/midudev",
+      "url": "",
       "startDate": "2023-09-01",
-      "endDate": null,
+      "endDate": "2024-04-26",
       "summary": "As a member of the Business Solutions team at the BYU-Idaho Support Center, I actively contribute to the development of digital solutions, system automation, and business intelligence. Our goal is to support the call center in efficiently assisting students to find the necessary help and resources.",
       "highlights": ["Started the company"]
     },
     {
       "name": "BYU-Idaho Support Center",
       "position": "Data Analyst",
-      "url": "https://twitch.tv/midudev",
+      "url": "",
       "startDate": "2022-11-01",
       "endDate": "2023-09-01",
       "summary": "As a member of the Business Solutions team at the BYU-Idaho Support Center, I actively contribute to the development of digital solutions, system automation, and business intelligence. Our goal is to support the call center in efficiently assisting students to find the necessary help and resources.",
@@ -74,13 +78,13 @@
   "education": [
     {
       "institution": "Brigram Young University - Idaho",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Computer Science",
+      "url": "",
+      "area": "Computer Science (GPA: 3.97)",
       "studyType": "Bachelor",
       "startDate": "2022-09-11",
-      "endDate": "2026-04-21",
-      "score": "3.95",
-      "courses": ["DB1101 - Basic SQL"]
+      "endDate": "2025-12-31",
+      "score": "3.97",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -112,40 +116,70 @@
     {
       "name": "Python",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": ["Web development", "Backend"]
     },
     {
       "name": "Django",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": ["Web development", "Backend"]
     },
     {
       "name": "DRF",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": ["Web development", "API"]
     },
     {
       "name": "Go",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": ["Web development", "Backend"]
     },
     {
       "name": "SQL",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": ["Web development", "Database"]
     },
     {
       "name": "PostgreSQL",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": ["Web development", "Database"]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": ["Web development", "Backend"]
     },
     {
       "name": "C#",
       "level": "Master",
-      "keywords": ["Web development", "Frontend", "Diseño Responsive"]
+      "keywords": ["Web development", "Backend"]
+    },
+    {
+      "name": "RESTful API Development",
+      "level": "Master",
+      "keywords": ["Web development", "Backend"]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": ["Web development", "Backend"]
+    },
+    {
+      "name": "Linux",
+      "level": "Master",
+      "keywords": ["OS"]
     },
     {
       "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "CSS3",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "HTML5",
       "level": "Master",
       "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
     },
@@ -162,7 +196,7 @@
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": ["Version control", "Colaboración", "Source code"]
+      "keywords": ["Version control", "Collaboration", "Source code"]
     },
     {
       "name": "GitHub",
@@ -171,6 +205,11 @@
     },
     {
       "name": "React",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "SvelteKit",
       "level": "Advanced",
       "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
     }
